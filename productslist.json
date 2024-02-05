@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "64286d7b547d31962c7afe2b"
+  },
+  "img": "http://localhost:5173/src/assets/images/images/ash-hayes-UzfYnsy_FxQ-unsplash.jpg",
+  "product_title": "Still Life ",
+  "product_description": " 12x13 Oil painting displaying still life.",
+  "product_quantity": 1,
+  "product_price": 0
+},{
+  "_id": {
+    "$oid": "64286e26547d31962c7afe2c"
+  },
+  "img": "http://localhost:5173/src/assets/images/images/birmingham-museums-trust-9dnNnTrHxmI-unsplash.jpg",
+  "product_title": "Castle",
+  "product_description": " 12x12 watercolor painting showcasing a castle.",
+  "product_quantity": 2,
+  "product_price": 0
+},{
+  "_id": {
+    "$oid": "64286e44547d31962c7afe2d"
+  },
+  "img": "http://localhost:5173/src/assets/images/images/birmingham-museums-trust-nbneQlI2M1A-unsplash.jpg",
+  "product_title": "19th Century Landscape",
+  "product_description": " 12x14 oil painting showcasing the landscape and waterbody with hints of civilization.",
+  "product_quantity": 3,
+  "product_price": 0
+},{
+  "_id": {
+    "$oid": "64286e59547d31962c7afe2e"
+  },
+  "img": "http://localhost:5173/src/assets/images/images/birmingham-museums-trust-sJr8LDyEf7k-unsplash.jpg",
+  "product_title": "Castle on the rock",
+  "product_description": " 12x12 oil painting depicting an 18th century castle with neutral colors.",
+  "product_quantity": 4,
+  "product_price": 0
+},{
+  "_id": {
+    "$oid": "64286e72547d31962c7afe2f"
+  },
+  "img": "http://localhost:5173/src/assets/images/images/europeana-TjegK_z-0j8-unsplash.jpg",
+  "product_title": "At Sea",
+  "product_description": " 12x10 oil painting showcasing the boats and ship at sea.",
+  "product_quantity": 5,
+  "product_price": 0
+},{
+  "_id": {
+    "$oid": "64286e86547d31962c7afe30"
+  },
+  "img": "http://localhost:5173/src/assets/images/images/europeana-6c43FgRt0Dw-unsplash.jpg",
+  "product_title": "Flowers",
+  "product_description": " 12x12 oil painting of myriad of flowers in vase using bright colors.",
+  "product_quantity": 6,
+  "product_price": 0
+}]
